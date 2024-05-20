@@ -1,5 +1,7 @@
 # Творческая работа
 
+Ссылка на видоотчет: https://drive.google.com/drive/u/0/folders/1z2dmpYx0msPK2BNrC7joNMzcM_S477v3
+
 Выполнили студенты 
 
 Группы ИВТ-23-2б
