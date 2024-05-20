@@ -117,7 +117,7 @@ void parse(const QVariant &value) {
         while (str[idx] != '[' and idx < str.length()) {
             idx++;
         }
-        while (str[++idx] != '$' and idx < str.length()) {
+        while (str[++idx] != ';' and idx < str.length()) {
             name += str[idx];
         }
         while (str[++idx] != '/' and idx < str.length()) {
